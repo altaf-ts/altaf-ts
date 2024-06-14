@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Altaf Shaikh</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/697565429811964656/">
+![programmer](https://github.com/altaf-ts/altaf-ts/assets/128633184/6daf0451-f6bb-46de-b75e-0549fd18b6fa)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaf-ts&label=Profile%20views&color=0e75b6&style=flat" alt="altaf-ts" /> </p>
 
