@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![background](https://github.com/altaf-ts/altaf-ts/assets/128633184/9eddf0ac-755b-49a3-b211-6048f142e393)
 <h1 align="center">Hi 👋, I'm Altaf Shaikh</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
