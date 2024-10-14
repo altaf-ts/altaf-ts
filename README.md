@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Altaf Shaikh</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h3 align="center">A Passionate Full Stack Developer From Pune, Maharashtra India</h3>
 
 ![programmer](https://github.com/altaf-ts/altaf-ts/assets/128633184/6daf0451-f6bb-46de-b75e-0549fd18b6fa)
 
