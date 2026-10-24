@@ -1,41 +1,33 @@
+<!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:293E40,100:62D84E&text=Altaf%20Shaikh&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=ServiceNow%20Developer&descSize=26&descAlignY=62&animation=twinkling" width="100%" alt="header"/>
-
-<h2>
-  Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" height="34" alt="wave"/>
-  Welcome to my profile
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:293E40,50:3D7A4F,100:62D84E&text=Altaf%20Shaikh&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=ServiceNow%20Developer&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/altaf-ts">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=62D84E&center=true&vCenter=true&width=760&height=50&lines=ServiceNow+Developer+%7C+Pune%2C+India;ITSM+%7C+FSM+%7C+PPM;Flow+Designer+%7C+REST+APIs+%7C+ATF;CSA+%7C+CAD+%7C+CIS+Certified;Building+automated%2C+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=62D84E&center=true&vCenter=true&width=720&lines=ServiceNow+Developer+%7C+Pune%2C+India;ITSM+%7C+FSM+%7C+PPM;Flow+Designer+%7C+REST+APIs+%7C+ATF;CSA+%7C+CAD+%7C+CIS+Certified" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<!-- ===== PASTE YOUR OLD PROGRAMMER GIF HERE (copy that one <img> line from your old README) ===== -->
-
-<img src="https://komarev.com/ghpvc/?username=altaf-ts&label=Profile%20views&color=62D84E&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="experience"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-293E40?style=for-the-badge&logoColor=62D84E" alt="open"/>
-
-</div>
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30" height="30" alt="sparkles"/> About Me
+<img src="https://komarev.com/ghpvc/?username=altaf-ts&label=Profile%20views&color=62D84E&style=for-the-badge" alt="views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ServiceNow Developer with **1.5+ years** of experience building automated, scalable solutions across **ITSM, Field Service Management (FSM) and PPM**.
 I work with **Flow Designer, Business Rules, Client Scripts, Script Includes, REST API integrations and the Automated Test Framework (ATF)**.
 
-- 🔧 Service Catalog items, workflow automation and scripted customizations
+- 🔧 Building Service Catalog items, workflow automations and scripted customizations
 - 🚚 Field Service: Work Orders, Work Order Tasks, scheduling and resource allocation
 - 🧪 80+ manual and ATF test cases across ITSM, FSM and PPM
-- 🌱 Exploring advanced ServiceNow modules on my Personal Developer Instance (PDI)
+- 🌱 Currently exploring advanced ServiceNow modules and practising on my Personal Developer Instance (PDI)
 
-<br/>
+---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30" height="30" alt="trophy"/> Certifications
+## 🏅 Certifications
 
 <div align="center">
 
@@ -44,13 +36,13 @@ I work with **Flow Designer, Business Rules, Client Scripts, Script Includes, RE
 <img src="https://img.shields.io/badge/ServiceNow-CIS--ITSM-293E40?style=for-the-badge&logo=servicenow&logoColor=62D84E" alt="CIS-ITSM"/>
 <img src="https://img.shields.io/badge/ServiceNow-CIS--FSM-293E40?style=for-the-badge&logo=servicenow&logoColor=62D84E" alt="CIS-FSM"/>
 <img src="https://img.shields.io/badge/ServiceNow-CIS--Data%20Foundations-293E40?style=for-the-badge&logo=servicenow&logoColor=62D84E" alt="CIS-DF"/>
-<img src="https://img.shields.io/badge/ServiceNow-ATF%20Micro--Cert-3D7A4F?style=for-the-badge&logo=servicenow&logoColor=white" alt="ATF"/>
+<img src="https://img.shields.io/badge/ServiceNow-ATF%20Micro--Certification-3D7A4F?style=for-the-badge&logo=servicenow&logoColor=white" alt="ATF"/>
 
 </div>
 
-<br/>
+---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" height="30" alt="rocket"/> What I Work On
+## 🛠️ What I Work On
 
 <div align="center">
 
@@ -65,9 +57,9 @@ I work with **Flow Designer, Business Rules, Client Scripts, Script Includes, RE
 
 </div>
 
-<br/>
+---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" height="30" alt="fire"/> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -81,13 +73,18 @@ I work with **Flow Designer, Business Rules, Client Scripts, Script Includes, RE
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,java,mysql,html,css,git,github,postman,jira,confluence,vscode&theme=dark" alt="skills"/>
+
 </div>
 
-<br/>
+---
 
 ## 📂 Repositories
 
-Practice and learning projects built on my own **ServiceNow Personal Developer Instance (PDI)**. No client or company code is shared here.
+My public repositories contain **practice and learning projects built on my own ServiceNow Personal Developer Instance (PDI)**.
+No client or company code is shared here.
 
 | Project | Description |
 |:--|:--|
@@ -96,17 +93,18 @@ Practice and learning projects built on my own **ServiceNow Personal Developer I
 | 🔹 *Coming soon* | REST API integration with Postman collection |
 | 🔹 *Coming soon* | ATF sample test cases |
 
-<br/>
+---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=altaf-ts&bg_color=0d1117&color=62D84E&line=3D7A4F&point=ffffff&area=true&area_color=3D7A4F&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=altaf-ts&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaf-ts&layout=compact&theme=radical&hide_border=true" height="160" alt="languages"/>
 
 </div>
 
-<br/>
+---
 
 ## 📫 Let's Connect
 
