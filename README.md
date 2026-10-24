@@ -1,13 +1,17 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:293E40,50:3D7A4F,100:62D84E&text=Altaf%20Shaikh&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=ServiceNow%20Developer&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,40:293E40,70:3D7A4F,100:62D84E&text=Altaf%20Shaikh&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=ServiceNow%20Developer&descSize=26&descAlignY=60&animation=twinkling" width="100%" alt="header"/>
 
 <a href="https://github.com/altaf-ts">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=62D84E&center=true&vCenter=true&width=720&lines=ServiceNow+Developer+%7C+Pune%2C+India;ITSM+%7C+FSM+%7C+PPM;Flow+Designer+%7C+REST+APIs+%7C+ATF;CSA+%7C+CAD+%7C+CIS+Certified" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/altaf-ts/altaf-ts/main/assets/developer.svg" width="780" alt="Animated developer coding"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=altaf-ts&label=Profile%20views&color=62D84E&style=for-the-badge" alt="views"/>
 
